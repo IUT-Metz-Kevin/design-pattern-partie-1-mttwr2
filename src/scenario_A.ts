@@ -30,7 +30,7 @@ class _Config {
     }
 
     public static getInstance() {
-        if (this._instance == null) {
+        if (!this._instance) {
             const _instance = new _Config 
         }
         return this._instance

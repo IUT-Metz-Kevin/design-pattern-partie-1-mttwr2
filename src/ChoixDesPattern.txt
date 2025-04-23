@@ -1,0 +1,22 @@
+Rappel : 
+
+3 catégories
+- Design pattern de création 
+- Design pattern de structure
+- Design pattern de comportement
+
+Scénario A : 
+Design Pattern Singleton
+
+Scénario B : 
+Design Pattern Composite car structure hiérarchique 
+
+Scénario C : 
+Design Pattern Adaptateur car on veut que chaque bouton appelle des méthodes génériques
+
+Scénario D : 
+Design Pattern Décorateur : on englobe un comportement unique avec d'autre choses
+Dans notre cas, ça permet un prix total + une méthode qui affiche le tout.
+
+Scénario E : 
+Design pattern Fabrique car comportement commun, mais attaque différente selon le personnage
